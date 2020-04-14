@@ -1,0 +1,26 @@
+.bola {
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+  border-radius: 100%;
+  background-color: red;
+  display: inline-block;
+}
+
+.cuadrado {
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+  background-color: red;
+  display: inline-block;
+}
+
+.hr-superior {
+  height: 1px;
+  color: black;
+  margin-bottom: 2px;
+}
+.hr-inferior {
+  height: 1px;
+  color: black;
+}
